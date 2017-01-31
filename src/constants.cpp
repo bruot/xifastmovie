@@ -25,7 +25,7 @@
 namespace constants
 {
     const char* const VERSION = "1.4";
-    const char* const TARGET_VERSION = "1.4";
+    const char* const TARGET_VERSION = "1.5";
 
     const char* const APP_NAME = "xiFastMovie";
 
